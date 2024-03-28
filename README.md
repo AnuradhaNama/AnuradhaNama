@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 👋 Hello there! Welcome to my GitHub profile!
 
 🔍 ABOUT ME:
+
 I'm passionate about learning and exploring new technologies. I like collaborating with others to solve problems and create innovative solutions. My journey in the world of programming is just beginning, and I'm excited to share what I learn along the way.
 
 🌱 Currently Learning:
